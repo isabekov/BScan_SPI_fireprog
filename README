@@ -1,0 +1,3 @@
+A core which uses BSCAN_SPARTAN3 primitive to transfer a configuration bit-stream from JTAG to SPI.
+It should be used in pair with "fireprog" (also Papilio-Loader) software to program SPI flash memory, connected to the Spartan 3 chip.
+Constraints were adapted for the Prometheus FPGA board which has an M25PE10 SPI flash connected to a Spartan 3A in a VQ100 package.

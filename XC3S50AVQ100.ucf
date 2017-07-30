@@ -1,0 +1,4 @@
+NET "SPI_MISO"  LOC = "P51"  ; 
+NET "SPI_MOSI"  LOC = "P46"  ; 
+NET "SPI_CS"    LOC = "P27"  ; 
+NET "SPI_SCK"   LOC = "P53"  ;
